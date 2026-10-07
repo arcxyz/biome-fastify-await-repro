@@ -1,0 +1,10 @@
+{
+  "linter": {
+    "rules": {
+      "preset": "none",
+      "nursery": {
+        "useAwaitThenable": "error"
+      }
+    }
+  }
+}
